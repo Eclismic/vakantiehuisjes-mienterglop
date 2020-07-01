@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vakantiehuisjes-mienterglop/static/css/main.a8fecaa2.chunk.css",
+    "main.js": "/vakantiehuisjes-mienterglop/static/js/main.465091e1.chunk.js",
+    "main.js.map": "/vakantiehuisjes-mienterglop/static/js/main.465091e1.chunk.js.map",
+    "runtime-main.js": "/vakantiehuisjes-mienterglop/static/js/runtime-main.e405e051.js",
+    "runtime-main.js.map": "/vakantiehuisjes-mienterglop/static/js/runtime-main.e405e051.js.map",
+    "static/js/2.c4c19b24.chunk.js": "/vakantiehuisjes-mienterglop/static/js/2.c4c19b24.chunk.js",
+    "static/js/2.c4c19b24.chunk.js.map": "/vakantiehuisjes-mienterglop/static/js/2.c4c19b24.chunk.js.map",
+    "index.html": "/vakantiehuisjes-mienterglop/index.html",
+    "precache-manifest.1023ea8e54dc813ab43e8eb9cac7d7f9.js": "/vakantiehuisjes-mienterglop/precache-manifest.1023ea8e54dc813ab43e8eb9cac7d7f9.js",
+    "service-worker.js": "/vakantiehuisjes-mienterglop/service-worker.js",
+    "static/css/main.a8fecaa2.chunk.css.map": "/vakantiehuisjes-mienterglop/static/css/main.a8fecaa2.chunk.css.map",
+    "static/js/2.c4c19b24.chunk.js.LICENSE.txt": "/vakantiehuisjes-mienterglop/static/js/2.c4c19b24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e405e051.js",
+    "static/js/2.c4c19b24.chunk.js",
+    "static/css/main.a8fecaa2.chunk.css",
+    "static/js/main.465091e1.chunk.js"
+  ]
+}
